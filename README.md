@@ -49,7 +49,42 @@ Finally, pseudo-anonymity should be applied to leader candidates, so collaborato
 In this paper, we describe a system called Effective that allows people to focus collectively to create desired change in themselves, the human collective, and Gaia. This system is modeled on abundance and collaboration, and values people's opinions while also rewarding them for participating. 
 
 # Overview
+
+Here is a short introduction to the actors that work together to create the Effective system. 
+
+Detailed explanations of each actor are given in the following sections. 
+
+## What is Effective
+Effective is a collaborative economy that works by giving people three daily currency deposits to (1) spend or save, (2) put towards social services and (3) support elective projects. The sum of every person's contribution is given to projects in a public registry to complete the project's stated objectives. 
+
+## Key Points of Effective
+- **Free digital currency** (∑) distributed daily
+	- Daily, each person gets 432∑ split three ways: 
+		- For **themselves** (144∑)
+		- For **Social projects** where they live (144∑)
+		- For **Elective projects** they choose (144∑) 
+- Goal is to harmonize **Individual**, **Collective** and **Gaia**
+- **Transparent Projects** & Democratic **Social Leadership** 
+- People must be **verified** and only hold one account
+	- Verification is not linked to Gov ID, but hashed biometric data
+	- Biometric data unrecoverable from hash, but can be used to ensure only one account per person
+- Three "**wallets**" Per Person (Same as Mentioned Earlier)
+	- Debit-like **spending account**
+	- Editable passive list of **supported elective projects**
+	- Editable supported **social leaders** list
+- **Social projects** provide free public services
+	- Citizens choose public leaders anonymously based on lists of social projects they support
+	- Funding directed by social leaders' public lists
+	- Global, National, Region, District, & City levels
+- **Elective projects** Funding for any type of project
+	- May be **public**, or **private**
+	- May be **locational** (e.g. housing), or **non-locational** (e.g. app)
+	- May **reward** collaborators by amount contributed (e.g. Sandwich shop)
+- Every actor published on Ethereum side-chain  **represented in JSON**, with human-actors pseudo-anonymous
+	- **Projects**' components and financial reporting
+	- **Leaders**' supported social projects
+	- **Individuals'** supported elective projects and social leaders
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMjcwNTgxNCwxMjQ4MjAxMTg1LC0yMD
+eyJoaXN0b3J5IjpbLTEyMjA2NDQ0MywxMjQ4MjAxMTg1LC0yMD
 k2NjY2NTc0LC0yNTAzNjcyMzNdfQ==
 -->
