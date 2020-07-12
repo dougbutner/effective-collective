@@ -50,10 +50,6 @@ In this paper, we describe a system called Effective that allows people to focus
 
 # Overview
 
-Here is a short introduction to the actors that work together to create the Effective system. 
-
-Detailed explanations of each actor are given in the following sections. 
-
 ## What is Effective
 Effective is a collaborative economy that works by giving people three daily currency deposits to (1) spend or save, (2) put towards social services and (3) support elective projects. The sum of every person's contribution is given to projects in a public registry to complete the project's stated objectives. 
 
@@ -85,6 +81,6 @@ Effective is a collaborative economy that works by giving people three daily cur
 	- **Leaders**' supported social projects
 	- **Individuals'** supported elective projects and social leaders
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjA2NDQ0MywxMjQ4MjAxMTg1LC0yMD
-k2NjY2NTc0LC0yNTAzNjcyMzNdfQ==
+eyJoaXN0b3J5IjpbNDE2OTg0ODQ3LDEyNDgyMDExODUsLTIwOT
+Y2NjY1NzQsLTI1MDM2NzIzM119
 -->
