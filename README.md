@@ -33,7 +33,7 @@ The portion of this digital currency distribution pegged for collaboration shoul
 
 This system will allow any number of people to pool their freely-given resources together to support projects that seek to create meaningful change in themselves, the collective and Gaia. 
 
-Projects seeking collaborators should be expressed in a proposal that follows a standard format. 
+Projects seeking collaborators should be expressed in a **proposal that follows a standard format**. 
 
 Any collaborator should be able to easily see these proposals, and compare them through visual and textual representations of the proposed stakeholders, requirements and intended impact.
 
@@ -82,6 +82,6 @@ Effective is a collaborative economy that works by giving people three daily cur
 	- **Leaders**' supported social projects
 	- **Individuals'** supported elective projects and social leaders
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NzgwNjc3MSwtMTY5Nzk2Mzk3NCwxMj
+eyJoaXN0b3J5IjpbMTI2MzE5NzAwNSwtMTY5Nzk2Mzk3NCwxMj
 Q4MjAxMTg1LC0yMDk2NjY2NTc0LC0yNTAzNjcyMzNdfQ==
 -->
