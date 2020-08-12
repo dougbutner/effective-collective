@@ -47,7 +47,7 @@ Finally, pseudo-anonymity should be applied to leader candidates, so collaborato
 
 ## Introduction Summary
 
-In this paper, we describe a system called Effective that allows people to focus collectively to create desired change in themselves, the human collective, and Gaia. This system is modeled on abundance and collaboration, and values people's opinions while also rewarding them for participating. 
+In this paper, we describe a system that allows people to focus collectively to create desired change in themselves, the human collective, and Gaia. This system is modeled on abundance and collaboration, and values people's opinions while also rewarding them for participating. 
 
 # Overview
 
@@ -82,6 +82,6 @@ Effective is a collaborative economy that works by giving people three daily cur
 	- **Leaders**' supported social projects
 	- **Individuals'** supported elective projects and social leaders
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MjQxMzY1MCwtMTY5Nzk2Mzk3NCwxMj
-Q4MjAxMTg1LC0yMDk2NjY2NTc0LC0yNTAzNjcyMzNdfQ==
+eyJoaXN0b3J5IjpbNTc2MDA1MzU2LC0xNjk3OTYzOTc0LDEyND
+gyMDExODUsLTIwOTY2NjY1NzQsLTI1MDM2NzIzM119
 -->
