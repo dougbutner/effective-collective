@@ -20,9 +20,9 @@ Modern Social structures create "winners" and "losers" through inherit competiti
 
 In elections, we have one winner, and several losers. In capitalistic economies, the companies that survive and increase their capital and returns are the "winners" while the rest are the "losers". Unfortunately, in both of these systems the real losers are the people and planet Earth, manipulated and mutilated in order for corporations and politicians to continue to "win".
 
-Competition creates dissonance and imbalance, as one side is always more powerful than the other, which creates a constant struggle. 
+**Competition creates dissonance** and imbalance, as one side is always more powerful than the other, which creates a constant struggle. 
 
-Balance can be created by introducing another, independent layer of energy exchange where freely-distributed currency is summed together by intentional, collaborative citizens to be used for the harmonious mutual benefit of the **individual**, the **collective**, and **Gaia**. (harmony, resonance)
+**Balance can be created by introducing another, harmonious layer of energy exchange** where freely-distributed currency is summed together by intentional, collaborative citizens to be used for the harmonious mutual benefit of the **individual**, the **collective**, and **Gaia**. (harmony, resonance)
 
 ## Collaborative requirements
 Each person (collaborator) should receive the same amount of collaborative power once per day, represented by digital currency. 
@@ -82,6 +82,6 @@ Effective is a collaborative economy that works by giving people three daily cur
 	- **Leaders**' supported social projects
 	- **Individuals'** supported elective projects and social leaders
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTc5NjM5NzQsMTI0ODIwMTE4NSwtMj
-A5NjY2NjU3NCwtMjUwMzY3MjMzXX0=
+eyJoaXN0b3J5IjpbLTY5NzgwNjc3MSwtMTY5Nzk2Mzk3NCwxMj
+Q4MjAxMTg1LC0yMDk2NjY2NTc0LC0yNTAzNjcyMzNdfQ==
 -->
