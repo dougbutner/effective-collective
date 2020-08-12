@@ -27,9 +27,9 @@ In elections, we have one winner, and several losers. In capitalistic economies,
 ## Collaborative requirements
 Each person (collaborator) should receive the same amount of collaborative power once per day, represented by digital currency. 
 
-This digital currency should be a cryptocurrency tradable for other cryptocurrencies and FIAT. Each collaborator should also be given a daily amount of cryptocurrency to spend and trade with.
+This digital currency should be a **cryptocurrency tradable for other cryptocurrencies and FIAT**. Each collaborator should also be given a daily amount of cryptocurrency to spend and trade with.
 
-The portion of this digital currency distribution pegged for collaboration should be redirected to elective projects, or to leaders who support social projects related to a geographically-bound collective (Town, nation, etc). Which projects and leaders the currency goes to should be chosen before the currency is received, and published in a pseudo-anonymous list. This list of recipients should be able to be changed at any time, but only by the collaborator themselves. 
+The portion of this digital currency distribution pegged for collaboration should be **redirected to elective projects**, or to leaders lists of social projects related to a geographically-bound collective (Town, nation, etc). Which projects and leaders the currency goes to should be chosen before the currency is received, and published in a pseudo-anonymous list. This list of recipients should be able to be changed at any time, but only by the collaborator themselves. 
 
 This system will allow any number of people to pool their freely-given resources together to support projects that seek to create meaningful change in themselves, the collective and Gaia. 
 
@@ -82,6 +82,6 @@ Effective is a collaborative economy that works by giving people three daily cur
 	- **Leaders**' supported social projects
 	- **Individuals'** supported elective projects and social leaders
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MzE5NzAwNSwtMTY5Nzk2Mzk3NCwxMj
+eyJoaXN0b3J5IjpbLTg5MjQxMzY1MCwtMTY5Nzk2Mzk3NCwxMj
 Q4MjAxMTg1LC0yMDk2NjY2NTc0LC0yNTAzNjcyMzNdfQ==
 -->
