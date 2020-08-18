@@ -39,11 +39,11 @@ Any collaborator should be able to easily see these proposals, and compare them 
 
 Periodically, projects should automatically publish a  report giving facts about how funds were spent. This report should display transaction history visually. Project leaders can use this opportunity to update any changes to their proposal, or add relevant information to the report, such as which goals were fulfilled, changes to existing goals, and new goals. 
 
-Every project that has collaborators will receive funds in this system, no matter if two people are collaborating or two million. Funding amount is equal to the number of people collaborating multiplied by their desire to collaborate on one project more than another. 
+**Every project** that has collaborators **will receive funds** in this system, no matter if two people are collaborating or two million. Funding amount is equal to the number of people collaborating multiplied by their desire to collaborate on one project more than another. 
 
-Each collaborator should be able to choose a large, but not infinite, number of projects to support. They should be able to choose what proportion of their support goes to each project.
+**Each collaborator** should be able to choose a large, but not infinite, number of projects to support. They should be able to **choose** what proportion of their support goes to each **project**.
 
-Finally, pseudo-anonymity should be applied to leader candidates, so collaborators consider the leader's list of supported projects, not their name. Pseudo-anonymity should also be applied to the collaborators themselves so that data can be public without being tied to an actual person. This anonymity should operate at all levels of the system, so no one has access to a list of the collaborators choices, nor who the candidates are. 
+Finally, **pseudo-anonymity** should be applied to leader candidates, so collaborators consider the leader's list of supported projects, not their name. Pseudo-anonymity should also be applied to the collaborators themselves so that data can be public without being tied to an actual person. This anonymity should operate at all levels of the system, so no one has access to a list of the collaborators choices, nor who the candidates are. 
 
 ## Introduction Summary
 
@@ -82,6 +82,7 @@ Effective is a collaborative economy that works by giving people three daily cur
 	- **Leaders**' supported social projects
 	- **Individuals'** supported elective projects and social leaders
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc2MDA1MzU2LC0xNjk3OTYzOTc0LDEyND
-gyMDExODUsLTIwOTY2NjY1NzQsLTI1MDM2NzIzM119
+eyJoaXN0b3J5IjpbMTA0MjgxOTc1Niw1NzYwMDUzNTYsLTE2OT
+c5NjM5NzQsMTI0ODIwMTE4NSwtMjA5NjY2NjU3NCwtMjUwMzY3
+MjMzXX0=
 -->
