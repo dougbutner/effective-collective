@@ -72,7 +72,7 @@ Effective is a **collaborative economy** that works by giving people **three dai
 - **Social projects** provide free public services
 	- Citizens choose public leaders anonymously based on lists of social projects they support
 	- **Funding** directed by social leaders' **public lists**
-	- Global, National, Region, District, & City levels
+	- **Global**, **National**, **Region**, **District**, & **City** levels
 - **Elective projects** Funding for any type of project
 	- May be **public**, or **private**
 	- May be **locational** (e.g. housing), or **non-locational** (e.g. app)
@@ -82,7 +82,7 @@ Effective is a **collaborative economy** that works by giving people **three dai
 	- **Leaders**' supported social projects
 	- **Individuals'** supported elective projects and social leaders
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MTI5NzQ5Miw1NzYwMDUzNTYsLTE2OT
-c5NjM5NzQsMTI0ODIwMTE4NSwtMjA5NjY2NjU3NCwtMjUwMzY3
-MjMzXX0=
+eyJoaXN0b3J5IjpbMTg3NTU1NzkzMiwtNTQxMjk3NDkyLDU3Nj
+AwNTM1NiwtMTY5Nzk2Mzk3NCwxMjQ4MjAxMTg1LC0yMDk2NjY2
+NTc0LC0yNTAzNjcyMzNdfQ==
 -->
