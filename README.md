@@ -77,12 +77,12 @@ Effective is a **collaborative economy** that works by giving people **three dai
 	- May be **public**, or **private**
 	- May be **locational** (e.g. housing), or **non-locational** (e.g. app)
 	- May **reward** collaborators by amount contributed (e.g. Sandwich shop)
-- Every actor published on Ethereum side-chain  **represented in JSON**, with human-actors pseudo-anonymous
+- Every actor stored in on **blockchain**, with human-actors pseudo-anonymous
 	- **Projects**' components and financial reporting
 	- **Leaders**' supported social projects
 	- **Individuals'** supported elective projects and social leaders
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NTU1NzkzMiwtNTQxMjk3NDkyLDU3Nj
-AwNTM1NiwtMTY5Nzk2Mzk3NCwxMjQ4MjAxMTg1LC0yMDk2NjY2
-NTc0LC0yNTAzNjcyMzNdfQ==
+eyJoaXN0b3J5IjpbMjA1NDA0OTQzOCwxODc1NTU3OTMyLC01ND
+EyOTc0OTIsNTc2MDA1MzU2LC0xNjk3OTYzOTc0LDEyNDgyMDEx
+ODUsLTIwOTY2NjY1NzQsLTI1MDM2NzIzM119
 -->
