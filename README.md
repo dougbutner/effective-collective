@@ -5,9 +5,9 @@ This repo will soon host the 0.0.1 release of the Effective Collective paper und
 
 # Abstract
 
-Effective provides universal daily income to every collaborator in the system, and facilitates collaboration in the funding of social and elective projects through collective choice. 
+Effective provides **universal daily income** to every collaborator in the system, and facilitates collaboration in the **funding of social and elective projects through collective choice**. 
 
-Individuals become collaborators by registering for a free digital wallet which automatically receives three equal deposits of Effective daily into three accounts.
+**Individuals become collaborators** by registering for a free digital wallet which automatically receives three equal deposits of Effective daily into three accounts.
 
 The first deposit goes to a **Sovereign Account**, and is redirected towards leaders who support projects related to the geopolitical areas the person lives. The second goes to a **Elective Account**, and is redirected directly towards any project they desire to support. The third goes to a **Primary Account** and is spendable similar to crypto and FIAT currencies. 
 
@@ -82,8 +82,8 @@ Effective is a **collaborative economy** that works by giving people **three dai
 	- **Leaders**' supported social projects
 	- **Individuals'** supported elective projects and social leaders
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjU4NTU2MjMsLTg3MjI3MzY4LDIwNT
-QwNDk0MzgsMTg3NTU1NzkzMiwtNTQxMjk3NDkyLDU3NjAwNTM1
-NiwtMTY5Nzk2Mzk3NCwxMjQ4MjAxMTg1LC0yMDk2NjY2NTc0LC
-0yNTAzNjcyMzNdfQ==
+eyJoaXN0b3J5IjpbNTM4Njg5MjEsLTg3MjI3MzY4LDIwNTQwND
+k0MzgsMTg3NTU1NzkzMiwtNTQxMjk3NDkyLDU3NjAwNTM1Niwt
+MTY5Nzk2Mzk3NCwxMjQ4MjAxMTg1LC0yMDk2NjY2NTc0LC0yNT
+AzNjcyMzNdfQ==
 -->
