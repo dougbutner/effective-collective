@@ -21,7 +21,7 @@ The first deposit goes to a **Sovereign Account**, and is redirected towards lea
 
 Modern Social structures create "winners" and "losers" through inherit competition. We propose a socioeconomic system without competition to re-imagine the biggest social structures, the economy and the government, as **collaborative coordinators**, in harmony with humanity and nature. 
 
-In elections, we have one winner, and several losers. In capitalistic economies, the companies that survive and increase their capital and returns are the "winners" while the rest are the "losers". Unfortunately, in both of these systems the real losers are the people and planet Earth, manipulated and mutilated in order for corporations and politicians to continue to "win".
+In elections, we have **one winner**, and several losers. In capitalistic economies, the companies that survive and increase their capital and returns are the "winners" while the rest are the "losers". Unfortunately, in both of these systems the real losers are the people and planet Earth, manipulated and mutilated in order for corporations and politicians to continue to "win".
 
 **Competition creates dissonance** and imbalance, as one side is always more powerful than the other, which creates a constant struggle. 
 
@@ -85,7 +85,7 @@ Effective is a **collaborative economy** that works by giving people **three dai
 	- **Leaders**' supported social projects
 	- **Individuals'** supported elective projects and social leaders
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMDA4NDcyMCw1Mzg2ODkyMSwtODcyMj
+eyJoaXN0b3J5IjpbLTkzNDU2NjIyNCw1Mzg2ODkyMSwtODcyMj
 czNjgsMjA1NDA0OTQzOCwxODc1NTU3OTMyLC01NDEyOTc0OTIs
 NTc2MDA1MzU2LC0xNjk3OTYzOTc0LDEyNDgyMDExODUsLTIwOT
 Y2NjY1NzQsLTI1MDM2NzIzM119
