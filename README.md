@@ -12,7 +12,7 @@ Effective provides **universal daily income** to every collaborator in the syste
 
 **Individuals become collaborators** by registering for a free digital wallet which automatically receives three equal deposits of Effective daily into three accounts.
 
-The first deposit goes to a **Sovereign Account**, and is redirected towards leaders who support projects related to the geopolitical areas the person lives. The second goes to a **Elective Account**, and is redirected directly towards any project they desire to support. The third goes to a **Primary Account** and is spendable similar to crypto and FIAT currencies. 
+The first deposit goes to a **Sovereign Account**, and is redirected towards leaders who support projects related to the geopolitical areas the person lives. The second goes to an **Elective Account**, and is redirected directly towards any project they desire to support. The third goes to a **Primary Account** and is spendable similar to crypto and FIAT currencies. 
 
 # Introduction
 >"A small group of  with the right ideas using the right means can change the world"
@@ -85,8 +85,8 @@ Effective is a **collaborative economy** that works by giving people **three dai
 	- **Leaders**' supported social projects
 	- **Individuals'** supported elective projects and social leaders
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNDU2NjIyNCw1Mzg2ODkyMSwtODcyMj
-czNjgsMjA1NDA0OTQzOCwxODc1NTU3OTMyLC01NDEyOTc0OTIs
-NTc2MDA1MzU2LC0xNjk3OTYzOTc0LDEyNDgyMDExODUsLTIwOT
-Y2NjY1NzQsLTI1MDM2NzIzM119
+eyJoaXN0b3J5IjpbMTI5NzkxMTI2NiwtOTM0NTY2MjI0LDUzOD
+Y4OTIxLC04NzIyNzM2OCwyMDU0MDQ5NDM4LDE4NzU1NTc5MzIs
+LTU0MTI5NzQ5Miw1NzYwMDUzNTYsLTE2OTc5NjM5NzQsMTI0OD
+IwMTE4NSwtMjA5NjY2NjU3NCwtMjUwMzY3MjMzXX0=
 -->
