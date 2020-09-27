@@ -28,7 +28,7 @@ In elections, we have **one winner**, and several losers. In capitalistic econom
 **Balance can be created by introducing another, harmonious layer of energy exchange** where freely-distributed currency is summed together by intentional, collaborative citizens to be used for the harmonious mutual benefit of the **individual**, the **collective**, and **Gaia**. (harmony, resonance)
 
 ## Collaborative requirements
-Each person (collaborator) should receive the same amount of collaborative power once per day, represented by digital currency. 
+Each person (**collaborator**) should receive the same amount of collaborative power once per day, represented by digital currency. 
 
 This digital currency should be a **cryptocurrency tradable for other cryptocurrencies and FIAT**. Each collaborator should also be given a daily amount of cryptocurrency to spend and trade with.
 
@@ -85,8 +85,8 @@ Effective is a **collaborative economy** that works by giving people **three dai
 	- **Leaders**' supported social projects
 	- **Individuals'** supported elective projects and social leaders
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NzkxMTI2NiwtOTM0NTY2MjI0LDUzOD
-Y4OTIxLC04NzIyNzM2OCwyMDU0MDQ5NDM4LDE4NzU1NTc5MzIs
-LTU0MTI5NzQ5Miw1NzYwMDUzNTYsLTE2OTc5NjM5NzQsMTI0OD
-IwMTE4NSwtMjA5NjY2NjU3NCwtMjUwMzY3MjMzXX0=
+eyJoaXN0b3J5IjpbLTE1ODQ2NTIxOTAsLTkzNDU2NjIyNCw1Mz
+g2ODkyMSwtODcyMjczNjgsMjA1NDA0OTQzOCwxODc1NTU3OTMy
+LC01NDEyOTc0OTIsNTc2MDA1MzU2LC0xNjk3OTYzOTc0LDEyND
+gyMDExODUsLTIwOTY2NjY1NzQsLTI1MDM2NzIzM119
 -->
