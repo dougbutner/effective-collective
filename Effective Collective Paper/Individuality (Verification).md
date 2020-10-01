@@ -21,7 +21,7 @@ Each individual must have equal collaborative power and opportunities. There are
 
 The only required user-supplied data points are date of birth, and home city / town. Home city is used to determine which social leaders they are able to support, and where that support goes. 
 
-ach person must be over the age of 12 to get an account. This age is chosen because it is when the brain starts making beta waves.
+Birth date is needed because each person must be over the age of 12 to get an account. This age is chosen because it is when the brain starts making beta waves, implying the individual can start making critical decisions for their community.
 
 ## System Integrity
 All of these must be maintained for the integrity of the system
@@ -47,6 +47,6 @@ Creating this biometric system is crucial for the success of Effective, and pres
 
 To this end, a sizable amount of the funding received for this project will go towards opening bounties for programmers who can solve these storage problems for several points of biometric data, as well as the corresponding data collection problems implied. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTcyMDU0ODAsMzU3MzE2NzQsNzMwOT
-k4MTE2XX0=
+eyJoaXN0b3J5IjpbMTc0NDc5NjM1MSwzNTczMTY3NCw3MzA5OT
+gxMTZdfQ==
 -->
