@@ -27,7 +27,10 @@ Birth date is needed because each person must be over the age of 12 to get an ac
 All of these must be maintained for the integrity of the system
  - One Earthling per account
  - Impossible for another person to change account without true owner's knowledge
- - No government-registered identity information, nor Effective account information should be stored with the biometric data. The any biometric data shouldn't be able to be re-constructed from the stored 
+ - No government-registered identity information, nor Effective account information should be stored with the biometric data. Any biometric data shouldn't be able to be re-constructed from the stored 
+
+## Biometric VS Social Verification
+To prove individuality, two solutions come to the forefront. One is to use biometric data in the 
 
 ## Biometric Account Recovery
 As the biometric record is only able to check whether or not someone is already on the system, it can be used to recover a wallet by matching an incoming request with an existing account. 
@@ -47,6 +50,6 @@ Creating this biometric system is crucial for the success of Effective, and pres
 
 To this end, a sizable amount of the funding received for this project will go towards opening bounties for programmers who can solve these storage problems for several points of biometric data, as well as the corresponding data collection problems implied. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NDc5NjM1MSwzNTczMTY3NCw3MzA5OT
-gxMTZdfQ==
+eyJoaXN0b3J5IjpbMTY2NTc2ODE2NCwxNzQ0Nzk2MzUxLDM1Nz
+MxNjc0LDczMDk5ODExNl19
 -->
