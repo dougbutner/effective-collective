@@ -10,7 +10,7 @@
 	- Total control over ∑ in Active account
 	- Control of recipient lists for passive accounts
 - An individual is not associated with a name, or government ID 
-- An individual is associated with multi-point biometric data OR can be socially 
+- An individual is associated with multi-point biometric data OR can be socially verified (TBD)
 - Account is a 6-digit base-60 ID, which can be changed any time for a 12∑ fee paid to the Earth Collective's Garden account.
 
 
@@ -47,6 +47,6 @@ Creating this biometric system is crucial for the success of Effective, and pres
 
 To this end, a sizable amount of the funding received for this project will go towards opening bounties for programmers who can solve these storage problems for several points of biometric data, as well as the corresponding data collection problems implied. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjMzMDYxOTIsMzU3MzE2NzQsNzMwOT
+eyJoaXN0b3J5IjpbLTE5MDI2MzExNDksMzU3MzE2NzQsNzMwOT
 k4MTE2XX0=
 -->
