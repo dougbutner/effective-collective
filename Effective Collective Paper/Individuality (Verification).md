@@ -19,9 +19,9 @@ First and foremost, a person's name, government ID, or any other ID should never
 
 Each individual must have equal collaborative power and opportunities. There are no special privileges, economically or socially, for system founders, wealth holders, etc, outside of the Council of Elders, Project leaders, and Social Leaders.
 
-Date of Birth, and  used to determine which social leaders they are able to support, and where that support goes. 
+The only required user-supplied data points are date of birth, and home city / town. Home city is used to determine which social leaders they are able to support, and where that support goes. 
 
-Each person must be over the age of 12 to get an account. This age is chosen because it is when the brain starts making beta waves.
+ach person must be over the age of 12 to get an account. This age is chosen because it is when the brain starts making beta waves.
 
 ## System Integrity
 All of these must be maintained for the integrity of the system
@@ -47,6 +47,6 @@ Creating this biometric system is crucial for the success of Effective, and pres
 
 To this end, a sizable amount of the funding received for this project will go towards opening bounties for programmers who can solve these storage problems for several points of biometric data, as well as the corresponding data collection problems implied. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDI2MzExNDksMzU3MzE2NzQsNzMwOT
+eyJoaXN0b3J5IjpbLTE2MTcyMDU0ODAsMzU3MzE2NzQsNzMwOT
 k4MTE2XX0=
 -->
