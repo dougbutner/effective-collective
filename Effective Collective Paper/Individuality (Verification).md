@@ -32,12 +32,12 @@ All of these must be maintained for the integrity of the system
 ## Biometric VS Social Verification
 To prove individuality, two solutions come to the forefront. One is to use biometric data in a way that is client side, provably impossible to reconstruct, and compressed to a point it makes sense to store it on-chain. 
 
-The other option is to use social verification, such as 
+The other option is to use social verification, such as is being done by brightid.
 
 ## Biometric Account Recovery
 As the biometric record is only able to check whether or not someone is already on the system, it can be used to recover a wallet by matching an incoming request with an existing account. 
 
-For example, if your MetaMask wallet holding your Effective is compromised, you would normally lose all of your currency and control of your account. However, with biometric unlocking, you are your recovery phrase.
+For example, if your wallet holding your Effective is compromised, you would normally lose all of your currency and control of your account. However, with biometric unlocking, you are your recovery phrase.
 
 This would not protect someone from spending all the Effective you have in your Metamask's active account, but it would protect against them gaining control of the account forever, and when you recover the account, you would again receive the Effective daily to build back up your savings. 
 
@@ -52,7 +52,7 @@ Creating this biometric system is crucial for the success of Effective, and pres
 
 To this end, a sizable amount of the funding received for this project will go towards opening bounties for programmers who can solve these storage problems for several points of biometric data, as well as the corresponding data collection problems implied. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNDcwNjQyNiwtNzcxNDcxNzA5LC0yMD
-AwODE5OTIyLDE2NjU3NjgxNjQsMTc0NDc5NjM1MSwzNTczMTY3
-NCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE4NDI4MTQzMCwxNTE0NzA2NDI2LC03Nz
+E0NzE3MDksLTIwMDA4MTk5MjIsMTY2NTc2ODE2NCwxNzQ0Nzk2
+MzUxLDM1NzMxNjc0LDczMDk5ODExNl19
 -->
