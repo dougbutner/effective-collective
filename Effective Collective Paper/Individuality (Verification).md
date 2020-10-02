@@ -70,12 +70,12 @@ Benefits like infinitely recoverable accounts may or may not exist depending on 
 
 
 # Case Against Social Verification
-To successfully run Social Verification, trusted representatives must exist to ensure that groups of individuals don't work in malicious ways. This risk of malicious actors can be greatly reduced 
+To successfully run Social Verification, trusted representatives must exist to ensure that groups of individuals don't work in malicious ways. This risk of malicious actors can be greatly reduced by these trusted representatives, an
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTQ0NjYxNzUsMTgzMzE3MzYyMSwxNj
-g3ODM5ODg0LC02MzgyMTE3NCwtMTY4NDkwNzEyOSwtMTQ2NzQ5
-NDI0LDExMDA4MDY0NzksLTE0ODc5NjU4NTMsODQzMzI1NTMyLD
-E1MTQ3MDY0MjYsLTc3MTQ3MTcwOSwtMjAwMDgxOTkyMiwxNjY1
-NzY4MTY0LDE3NDQ3OTYzNTEsMzU3MzE2NzQsNzMwOTk4MTE2XX
-0=
+eyJoaXN0b3J5IjpbLTE4MjMyNTY3NzUsLTIwMTQ0NjYxNzUsMT
+gzMzE3MzYyMSwxNjg3ODM5ODg0LC02MzgyMTE3NCwtMTY4NDkw
+NzEyOSwtMTQ2NzQ5NDI0LDExMDA4MDY0NzksLTE0ODc5NjU4NT
+MsODQzMzI1NTMyLDE1MTQ3MDY0MjYsLTc3MTQ3MTcwOSwtMjAw
+MDgxOTkyMiwxNjY1NzY4MTY0LDE3NDQ3OTYzNTEsMzU3MzE2Nz
+QsNzMwOTk4MTE2XX0=
 -->
