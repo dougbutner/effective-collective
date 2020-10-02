@@ -62,10 +62,10 @@ The whole idea of implementing biometric information into this project may also 
 
 
 # Case for Social Verification
-## Already being done
-While biometric data is being used, it is
+Social verification is low-tech, and low-data 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODc5NjU4NTMsODQzMzI1NTMyLDE1MT
-Q3MDY0MjYsLTc3MTQ3MTcwOSwtMjAwMDgxOTkyMiwxNjY1NzY4
-MTY0LDE3NDQ3OTYzNTEsMzU3MzE2NzQsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTEwMDgwNjQ3OSwtMTQ4Nzk2NTg1Myw4ND
+MzMjU1MzIsMTUxNDcwNjQyNiwtNzcxNDcxNzA5LC0yMDAwODE5
+OTIyLDE2NjU3NjgxNjQsMTc0NDc5NjM1MSwzNTczMTY3NCw3Mz
+A5OTgxMTZdfQ==
 -->
