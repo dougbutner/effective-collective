@@ -62,10 +62,14 @@ The whole idea of implementing biometric information into this project may also 
 
 
 # Case for Social Verification
-Social verification is low-tech, and low-data 
+Social verification is low-tech and requires minimal on-chain storage. Many of the same benefits 
+
+
+# Case Against Social Verification
+To successfully run Social Verifficaiton, trusted representatives must exist to ensure that this 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMDgwNjQ3OSwtMTQ4Nzk2NTg1Myw4ND
-MzMjU1MzIsMTUxNDcwNjQyNiwtNzcxNDcxNzA5LC0yMDAwODE5
-OTIyLDE2NjU3NjgxNjQsMTc0NDc5NjM1MSwzNTczMTY3NCw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTExOTgyNzQ2OTAsMTEwMDgwNjQ3OSwtMT
+Q4Nzk2NTg1Myw4NDMzMjU1MzIsMTUxNDcwNjQyNiwtNzcxNDcx
+NzA5LC0yMDAwODE5OTIyLDE2NjU3NjgxNjQsMTc0NDc5NjM1MS
+wzNTczMTY3NCw3MzA5OTgxMTZdfQ==
 -->
