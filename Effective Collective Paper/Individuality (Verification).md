@@ -58,17 +58,19 @@ To this end, a sizable amount of the funding received for this project will go t
 # Case Against Biometrics
 Biometric information is already being abused by governments seeking control and information that facilitates their control and implementation of their policies. To create a system that uses biometric information but does not store reconstructable information is challenging at best. 
 
-The whole idea of implementing biometric information into this project may also turn people away, particularly the very people that would benefit the most from the system. 
+
+
+The whole idea of implementing biometric information into this project may also turn people away, particularly the very people that would benefit the most from the system. The 
 
 
 # Case for Social Verification
-Social verification is low-tech and requires minimal on-chain storage. Many of the same benefits 
+Social verification is low-tech and requires minimal on-chain storage. Benefits like infinitely recoverable accounts may or may not exist depending on the implementations.
 
 
 # Case Against Social Verification
-To successfully run Social Verifficaiton, trusted representatives must exist to ensure that this 
+To successfully run Social Verification, trusted representatives must exist to ensure that this 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTgyNzQ2OTAsMTEwMDgwNjQ3OSwtMT
+eyJoaXN0b3J5IjpbLTEzNzgwNDUwMzYsMTEwMDgwNjQ3OSwtMT
 Q4Nzk2NTg1Myw4NDMzMjU1MzIsMTUxNDcwNjQyNiwtNzcxNDcx
 NzA5LC0yMDAwODE5OTIyLDE2NjU3NjgxNjQsMTc0NDc5NjM1MS
 wzNTczMTY3NCw3MzA5OTgxMTZdfQ==
