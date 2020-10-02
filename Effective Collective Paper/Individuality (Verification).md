@@ -9,9 +9,9 @@
 - Every individual has sole control of their own ∑
 	- Total control over ∑ in Active account
 	- Control of **recipient lists** for passive accounts
-- An individual is not associated with a name, or government ID 
-- An individual is associated with multi-point biometric data OR can be socially verified (TBD)
-- Account is a 6-digit base-60 ID, which can be changed any time for a 12∑ fee paid to the Earth Collective's Garden account.
+- An individual is **not associated with a government ID** 
+- An individual is associated with **multi-point biometric data** OR social connections that verify this person is who they say (TBD)
+- Account is a **6-digit base-60 ID**, which can be changed any time for a 12∑ fee paid to the Earth Collective's Garden account.
 
 
 ## Verified Individuality Overview
@@ -76,11 +76,11 @@ To successfully run social verification, trusted representatives must exist to e
 
 Social verification does not stand up to some principles of web 3, including decentralization and provability. While this may present an ideological issue, it's not a real issue as long as the system works.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NzkzMjUxMywtNTUxMjI4NDQ5LDc5Nj
-E1Njg4NywtNjEwMjM1NjUsLTIwMTQ0NjYxNzUsMTgzMzE3MzYy
-MSwxNjg3ODM5ODg0LC02MzgyMTE3NCwtMTY4NDkwNzEyOSwtMT
-Q2NzQ5NDI0LDExMDA4MDY0NzksLTE0ODc5NjU4NTMsODQzMzI1
-NTMyLDE1MTQ3MDY0MjYsLTc3MTQ3MTcwOSwtMjAwMDgxOTkyMi
-wxNjY1NzY4MTY0LDE3NDQ3OTYzNTEsMzU3MzE2NzQsNzMwOTk4
-MTE2XX0=
+eyJoaXN0b3J5IjpbMjAyMDU1ODc4LC04NTc5MzI1MTMsLTU1MT
+IyODQ0OSw3OTYxNTY4ODcsLTYxMDIzNTY1LC0yMDE0NDY2MTc1
+LDE4MzMxNzM2MjEsMTY4NzgzOTg4NCwtNjM4MjExNzQsLTE2OD
+Q5MDcxMjksLTE0Njc0OTQyNCwxMTAwODA2NDc5LC0xNDg3OTY1
+ODUzLDg0MzMyNTUzMiwxNTE0NzA2NDI2LC03NzE0NzE3MDksLT
+IwMDA4MTk5MjIsMTY2NTc2ODE2NCwxNzQ0Nzk2MzUxLDM1NzMx
+Njc0XX0=
 -->
