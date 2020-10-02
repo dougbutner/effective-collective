@@ -56,13 +56,15 @@ Creating this biometric system is crucial for the success of Effective, and pres
 To this end, a sizable amount of the funding received for this project will go towards opening bounties for programmers who can solve these storage problems for several points of biometric data, as well as the corresponding data collection problems implied. 
 
 # Case Against Biometrics
-Biometric information is already being abused by governments seeking control and information that facilitates their control and implementation of their policies. To create a system that stored information is impossible to 
+Biometric information is already being abused by governments seeking control and information that facilitates their control and implementation of their policies. To create a system that uses biometric information but does not store reconstructable information is challenging at best. 
+
+The whole idea of implementing biometric information into this project may also turn people away, particularly the very people that would benefit the most from the system. 
 
 
 # Case for Social Verification
 ## Biometric Account Recovery
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NTE1MTMyNywxNTE0NzA2NDI2LC03Nz
-E0NzE3MDksLTIwMDA4MTk5MjIsMTY2NTc2ODE2NCwxNzQ0Nzk2
-MzUxLDM1NzMxNjc0LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbODQzMzI1NTMyLDE1MTQ3MDY0MjYsLTc3MT
+Q3MTcwOSwtMjAwMDgxOTkyMiwxNjY1NzY4MTY0LDE3NDQ3OTYz
+NTEsMzU3MzE2NzQsNzMwOTk4MTE2XX0=
 -->
