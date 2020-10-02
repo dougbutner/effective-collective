@@ -3,12 +3,12 @@
 
 ## Key Points
 - **One individual** (person) per account, enforced through verification
-- Every individual resident of Earth can have an account, no restriction to gender, nationality, terms with any government or list of individuals
-- Age 12 is the minimum age to open an account 
-- Every individual is given equal ∑, therefore, equal power
+- Every individual resident of Earth can have an account, **no restriction** to gender, nationality, terms with any government or list of individuals
+- **Age 12** is the minimum age to open an account 
+- **Every individual is given equal ∑**, therefore, equal power
 - Every individual has sole control of their own ∑
 	- Total control over ∑ in Active account
-	- Control of recipient lists for passive accounts
+	- Control of **recipient lists** for passive accounts
 - An individual is not associated with a name, or government ID 
 - An individual is associated with multi-point biometric data OR can be socially verified (TBD)
 - Account is a 6-digit base-60 ID, which can be changed any time for a 12∑ fee paid to the Earth Collective's Garden account.
@@ -76,10 +76,11 @@ To successfully run social verification, trusted representatives must exist to e
 
 Social verification does not stand up to some principles of web 3, including decentralization and provability. While this may present an ideological issue, it's not a real issue as long as the system works.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MTIyODQ0OSw3OTYxNTY4ODcsLTYxMD
-IzNTY1LC0yMDE0NDY2MTc1LDE4MzMxNzM2MjEsMTY4NzgzOTg4
-NCwtNjM4MjExNzQsLTE2ODQ5MDcxMjksLTE0Njc0OTQyNCwxMT
-AwODA2NDc5LC0xNDg3OTY1ODUzLDg0MzMyNTUzMiwxNTE0NzA2
-NDI2LC03NzE0NzE3MDksLTIwMDA4MTk5MjIsMTY2NTc2ODE2NC
-wxNzQ0Nzk2MzUxLDM1NzMxNjc0LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTg1NzkzMjUxMywtNTUxMjI4NDQ5LDc5Nj
+E1Njg4NywtNjEwMjM1NjUsLTIwMTQ0NjYxNzUsMTgzMzE3MzYy
+MSwxNjg3ODM5ODg0LC02MzgyMTE3NCwtMTY4NDkwNzEyOSwtMT
+Q2NzQ5NDI0LDExMDA4MDY0NzksLTE0ODc5NjU4NTMsODQzMzI1
+NTMyLDE1MTQ3MDY0MjYsLTc3MTQ3MTcwOSwtMjAwMDgxOTkyMi
+wxNjY1NzY4MTY0LDE3NDQ3OTYzNTEsMzU3MzE2NzQsNzMwOTk4
+MTE2XX0=
 -->
