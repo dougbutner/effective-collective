@@ -32,8 +32,9 @@ All of these must be maintained for the integrity of the system
 ## Biometric VS Social Verification
 To prove individuality, two solutions come to the forefront. One is to use biometric data in a way that is client side, provably impossible to reconstruct, and compressed to a point it makes sense to store it on-chain. 
 
-The other option is to use social verification, such as is being done by [brightid](https://www.brightid.org/).
+The other option is to use social verification, such done by [brightid](https://www.brightid.org/). We will discuss some ideas
 
+# Case for Biometrics
 ## Biometric Account Recovery
 As the biometric record is only able to check whether or not someone is already on the system, it can be used to recover a wallet by matching an incoming request with an existing account. 
 
@@ -53,8 +54,15 @@ The alternative to a data-driven biometric approach is to have a
 Creating this biometric system is crucial for the success of Effective, and presents the biggest logistical challenge. Protecting users biometric information in a system without trust is paramount, and requires a hard look at harnessing available algorithms, identifying minimal representative data points, and hashing data in verifiable yet unrecoverable ways. 
 
 To this end, a sizable amount of the funding received for this project will go towards opening bounties for programmers who can solve these storage problems for several points of biometric data, as well as the corresponding data collection problems implied. 
+
+# Case Against Biometrics
+Biometric in
+
+
+# Case for Social Verification
+## Biometric Account Recovery
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMDExMzk1NiwxNTE0NzA2NDI2LC03Nz
+eyJoaXN0b3J5IjpbLTE1NjY2MDE0NiwxNTE0NzA2NDI2LC03Nz
 E0NzE3MDksLTIwMDA4MTk5MjIsMTY2NTc2ODE2NCwxNzQ0Nzk2
 MzUxLDM1NzMxNjc0LDczMDk5ODExNl19
 -->
