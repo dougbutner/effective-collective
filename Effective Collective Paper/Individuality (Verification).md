@@ -32,7 +32,7 @@ All of these must be maintained for the integrity of the system
 ## Biometric VS Social Verification
 To prove individuality, two solutions come to the forefront. One is to use biometric data in a way that is client side, provably impossible to reconstruct, and compressed to a point it makes sense to store it on-chain. 
 
-The other option is to use social verification, such done by [brightid](https://www.brightid.org/). We will discuss some ideas
+The other option is to use social verification, such done by [brightid](https://www.brightid.org/whitepaper). We will discuss some ideas for each option.
 
 # Case for Biometrics
 ## Biometric Account Recovery
@@ -62,9 +62,10 @@ The whole idea of implementing biometric information into this project may also 
 
 
 # Case for Social Verification
-## Biometric Account Recovery
+## Already being done
+While biometric data is being used, it is
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQzMzI1NTMyLDE1MTQ3MDY0MjYsLTc3MT
-Q3MTcwOSwtMjAwMDgxOTkyMiwxNjY1NzY4MTY0LDE3NDQ3OTYz
-NTEsMzU3MzE2NzQsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE0ODc5NjU4NTMsODQzMzI1NTMyLDE1MT
+Q3MDY0MjYsLTc3MTQ3MTcwOSwtMjAwMDgxOTkyMiwxNjY1NzY4
+MTY0LDE3NDQ3OTYzNTEsMzU3MzE2NzQsNzMwOTk4MTE2XX0=
 -->
