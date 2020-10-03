@@ -15,7 +15,7 @@
 
 
 ## Verified Individuality Overview
-First and foremost, a person's name, government ID, or any other ID should never be stored or even asked by the verification system. This ensures each individuals equality in the eyes of Effective. 
+First and foremost, a person's name, government ID, or any other ID should **never be stored** or even asked by the verification system. This ensures each individuals equality in the eyes of Effective. 
 
 Each individual must have equal collaborative power and opportunities. There are no special privileges, economically or socially, for system founders, wealth holders, etc, outside of the Council of Elders, Project leaders, and Social Leaders.
 
@@ -48,10 +48,9 @@ This system must take into account young people that are growing, and who's voic
 
 Biometric information should hashed in a way that it can never be recreated from the hash, as this will be stored on chain, but can be used to verify a possible match when presented a set of biometric data. In this way, the information can only be used to say "Yes, this is the correct person, or No, this is not the correct person" and check whether a person exists already on the system, as needed to open an account. 
 
-The alternative to a data-driven biometric approach is to have a 
 
 ## Biometric Logistics
-Creating this biometric system is crucial for the success of Effective, and presents the biggest logistical challenge. Protecting users biometric information in a system without trust is paramount, and requires a hard look at harnessing available algorithms, identifying minimal representative data points, and hashing data in verifiable yet unrecoverable ways. 
+Creating this biometric system is crucial for the success of Effective, and presents the biggest logistical challenge. Protecting users biometric information in a system without trust is paramount, and requires a hard look at harnessing available algorithms, identifying **minimal representative data points**, and hashing data in **verifiable yet unrecoverable** ways. 
 
 To this end, a sizable amount of the funding received for this project will go towards opening bounties for programmers who can solve these storage problems for several points of biometric data, as well as the corresponding data collection problems implied. 
 
@@ -76,11 +75,11 @@ To successfully run social verification, trusted representatives must exist to e
 
 Social verification does not stand up to some principles of web 3, including decentralization and provability. While this may present an ideological issue, it's not a real issue as long as the system works.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMDU1ODc4LC04NTc5MzI1MTMsLTU1MT
-IyODQ0OSw3OTYxNTY4ODcsLTYxMDIzNTY1LC0yMDE0NDY2MTc1
-LDE4MzMxNzM2MjEsMTY4NzgzOTg4NCwtNjM4MjExNzQsLTE2OD
-Q5MDcxMjksLTE0Njc0OTQyNCwxMTAwODA2NDc5LC0xNDg3OTY1
-ODUzLDg0MzMyNTUzMiwxNTE0NzA2NDI2LC03NzE0NzE3MDksLT
-IwMDA4MTk5MjIsMTY2NTc2ODE2NCwxNzQ0Nzk2MzUxLDM1NzMx
-Njc0XX0=
+eyJoaXN0b3J5IjpbMjA4MTYyMDEwOSwyMDIwNTU4NzgsLTg1Nz
+kzMjUxMywtNTUxMjI4NDQ5LDc5NjE1Njg4NywtNjEwMjM1NjUs
+LTIwMTQ0NjYxNzUsMTgzMzE3MzYyMSwxNjg3ODM5ODg0LC02Mz
+gyMTE3NCwtMTY4NDkwNzEyOSwtMTQ2NzQ5NDI0LDExMDA4MDY0
+NzksLTE0ODc5NjU4NTMsODQzMzI1NTMyLDE1MTQ3MDY0MjYsLT
+c3MTQ3MTcwOSwtMjAwMDgxOTkyMiwxNjY1NzY4MTY0LDE3NDQ3
+OTYzNTFdfQ==
 -->
