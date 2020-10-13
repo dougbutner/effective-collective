@@ -17,7 +17,7 @@
 ## Verified Individuality Overview
 First and foremost, a person's name, government ID, or any other ID should **never be stored** or even asked by the verification system. This ensures each individuals equality in the eyes of Effective. 
 
-Each individual must have equal collaborative power and opportunities. There are no special privileges, economically or socially, for system founders, wealth holders, etc, outside of the Council of Elders, Project leaders, and Social Leaders.
+Each individual must have **equal collaborative power** and opportunities. There are **no special privileges**, economically or socially, for system founders, wealth holders, etc, outside of the Council of Elders, Project leaders, and Social Leaders.
 
 The only required user-supplied data points are date of birth, and home city / town. Home city is used to determine which social leaders they are able to support, and where that support goes. 
 
@@ -75,11 +75,11 @@ To successfully run social verification, trusted representatives must exist to e
 
 Social verification does not stand up to some principles of web 3, including decentralization and provability. While this may present an ideological issue, it's not a real issue as long as the system works.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MTYyMDEwOSwyMDIwNTU4NzgsLTg1Nz
-kzMjUxMywtNTUxMjI4NDQ5LDc5NjE1Njg4NywtNjEwMjM1NjUs
-LTIwMTQ0NjYxNzUsMTgzMzE3MzYyMSwxNjg3ODM5ODg0LC02Mz
-gyMTE3NCwtMTY4NDkwNzEyOSwtMTQ2NzQ5NDI0LDExMDA4MDY0
-NzksLTE0ODc5NjU4NTMsODQzMzI1NTMyLDE1MTQ3MDY0MjYsLT
-c3MTQ3MTcwOSwtMjAwMDgxOTkyMiwxNjY1NzY4MTY0LDE3NDQ3
-OTYzNTFdfQ==
+eyJoaXN0b3J5IjpbLTEyOTc5MTU4OTEsMjA4MTYyMDEwOSwyMD
+IwNTU4NzgsLTg1NzkzMjUxMywtNTUxMjI4NDQ5LDc5NjE1Njg4
+NywtNjEwMjM1NjUsLTIwMTQ0NjYxNzUsMTgzMzE3MzYyMSwxNj
+g3ODM5ODg0LC02MzgyMTE3NCwtMTY4NDkwNzEyOSwtMTQ2NzQ5
+NDI0LDExMDA4MDY0NzksLTE0ODc5NjU4NTMsODQzMzI1NTMyLD
+E1MTQ3MDY0MjYsLTc3MTQ3MTcwOSwtMjAwMDgxOTkyMiwxNjY1
+NzY4MTY0XX0=
 -->
