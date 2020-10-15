@@ -20,7 +20,7 @@ First and foremost, a person's name, government ID, or any other ID should **nev
 
 Each individual must have **equal collaborative power** and opportunities. There are **no special privileges**, economically or socially, for system founders, wealth holders, etc, outside of the Council of Elders, Project leaders, and Social Leaders.
 
-The only required user-supplied data points are date of birth, and home city / town. Home city is used to determine which social leaders they are able to support, and where that support goes. 
+The only required user-supplied data points are **date of birth,** and **home city** / town. Home city is used to determine which social leaders they are able to support, and where that support goes. This can be changed over time.  
 
 Birth date is needed because each person must be over the age of 12 to get an account. This age is chosen because it is when the brain starts making beta waves, implying the individual can start making critical decisions for their community.
 
@@ -76,11 +76,11 @@ To successfully run social verification, trusted representatives must exist to e
 
 Social verification does not stand up to some principles of web 3, including decentralization and provability. While this may present an ideological issue, it's not a real issue as long as the system works.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NDM1NDkxNCwtMTI5NzkxNTg5MSwyMD
-gxNjIwMTA5LDIwMjA1NTg3OCwtODU3OTMyNTEzLC01NTEyMjg0
-NDksNzk2MTU2ODg3LC02MTAyMzU2NSwtMjAxNDQ2NjE3NSwxOD
-MzMTczNjIxLDE2ODc4Mzk4ODQsLTYzODIxMTc0LC0xNjg0OTA3
-MTI5LC0xNDY3NDk0MjQsMTEwMDgwNjQ3OSwtMTQ4Nzk2NTg1My
-w4NDMzMjU1MzIsMTUxNDcwNjQyNiwtNzcxNDcxNzA5LC0yMDAw
-ODE5OTIyXX0=
+eyJoaXN0b3J5IjpbLTExNzEzNDQyMDYsLTEyOTc5MTU4OTEsMj
+A4MTYyMDEwOSwyMDIwNTU4NzgsLTg1NzkzMjUxMywtNTUxMjI4
+NDQ5LDc5NjE1Njg4NywtNjEwMjM1NjUsLTIwMTQ0NjYxNzUsMT
+gzMzE3MzYyMSwxNjg3ODM5ODg0LC02MzgyMTE3NCwtMTY4NDkw
+NzEyOSwtMTQ2NzQ5NDI0LDExMDA4MDY0NzksLTE0ODc5NjU4NT
+MsODQzMzI1NTMyLDE1MTQ3MDY0MjYsLTc3MTQ3MTcwOSwtMjAw
+MDgxOTkyMl19
 -->
