@@ -1,6 +1,3 @@
-
-
-
 # Garden Account
 # Council of Elders
 # Effective Economy
@@ -8,6 +5,6 @@
 # Leader Economy
 # Service Economy
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEyODMyNjcxLDE2OTgwNjE5ODEsLTIwOD
-g3NDY2MTIsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTI0Nzg1NTg5MywxNjk4MDYxOTgxLC0yMD
+g4NzQ2NjEyLDczMDk5ODExNl19
 -->
