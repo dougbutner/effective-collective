@@ -9,10 +9,10 @@ Effective provides **universal daily income** to every collaborator in the syste
 144 - Primary
 = 432 per individual per day 
 
-The first deposit goes to a **Sovereign Account**, and is redirected towards leaders who support projects related to the geopolitical areas the person lives. The second goes to an **Elective Account**, and is redirected directly towards any project they desire to support. The third goes to a **Primary Account** and is spendable in the ecosystem, and . 
+The first deposit goes to a **Sovereign Account**, and is redirected towards leaders who support projects related to the geopolitical areas the person lives. The second goes to an **Elective Account**, and is redirected directly towards any project they desire to support. The third goes to a **Primary Account** and is spendable in the ecosystem, and also tradable as a TELOS token. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgwOTIxMjU4LDEzNDcwMzI3OCw3MzA5OT
-gxMTZdfQ==
+eyJoaXN0b3J5IjpbLTEwMzc5MTA3MDEsMzgwOTIxMjU4LDEzND
+cwMzI3OCw3MzA5OTgxMTZdfQ==
 -->
