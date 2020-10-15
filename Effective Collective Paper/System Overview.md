@@ -1,8 +1,9 @@
 # Land Fund
 # Council of Elders
 # Effective Economy
-# 
+# Project Economy
+# Leader Economy
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzI4MTA2MTQsLTIwODg3NDY2MTIsNz
-MwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTY5ODA2MTk4MSwtMjA4ODc0NjYxMiw3Mz
+A5OTgxMTZdfQ==
 -->
