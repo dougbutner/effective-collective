@@ -2,6 +2,7 @@
 
 
 ## Key Points
+- We will implement Social Verification for the time being, but acknowledge biometric data may be useful as well. 
 - **One individual** (person) per account, enforced through verification
 - Every individual resident of Earth can have an account, **no restriction** to gender, nationality, terms with any government or list of individuals
 - **Age 12** is the minimum age to open an account 
@@ -75,11 +76,11 @@ To successfully run social verification, trusted representatives must exist to e
 
 Social verification does not stand up to some principles of web 3, including decentralization and provability. While this may present an ideological issue, it's not a real issue as long as the system works.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTc5MTU4OTEsMjA4MTYyMDEwOSwyMD
-IwNTU4NzgsLTg1NzkzMjUxMywtNTUxMjI4NDQ5LDc5NjE1Njg4
-NywtNjEwMjM1NjUsLTIwMTQ0NjYxNzUsMTgzMzE3MzYyMSwxNj
-g3ODM5ODg0LC02MzgyMTE3NCwtMTY4NDkwNzEyOSwtMTQ2NzQ5
-NDI0LDExMDA4MDY0NzksLTE0ODc5NjU4NTMsODQzMzI1NTMyLD
-E1MTQ3MDY0MjYsLTc3MTQ3MTcwOSwtMjAwMDgxOTkyMiwxNjY1
-NzY4MTY0XX0=
+eyJoaXN0b3J5IjpbLTc4NDM1NDkxNCwtMTI5NzkxNTg5MSwyMD
+gxNjIwMTA5LDIwMjA1NTg3OCwtODU3OTMyNTEzLC01NTEyMjg0
+NDksNzk2MTU2ODg3LC02MTAyMzU2NSwtMjAxNDQ2NjE3NSwxOD
+MzMTczNjIxLDE2ODc4Mzk4ODQsLTYzODIxMTc0LC0xNjg0OTA3
+MTI5LC0xNDY3NDk0MjQsMTEwMDgwNjQ3OSwtMTQ4Nzk2NTg1My
+w4NDMzMjU1MzIsMTUxNDcwNjQyNiwtNzcxNDcxNzA5LC0yMDAw
+ODE5OTIyXX0=
 -->
