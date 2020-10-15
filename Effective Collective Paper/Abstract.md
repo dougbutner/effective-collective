@@ -9,9 +9,10 @@ Effective provides **universal daily income** to every collaborator in the syste
 144 - Primary
 = 432 per individual per day 
 
-The first deposit goes to a **Sovereign Account**, and is redirected towards leaders who support projects related to the geopolitical areas the person lives. The second goes to an **Elective Account**, and is redirected directly towards any project they desire to support. The third goes to a **Primary Account** and is spendable similar to crypto and FIAT currencies. 
+The first deposit goes to a **Sovereign Account**, and is redirected towards leaders who support projects related to the geopolitical areas the person lives. The second goes to an **Elective Account**, and is redirected directly towards any project they desire to support. The third goes to a **Primary Account** and is spendable in the ecosystem, and . 
 
-This Effective w
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NzAzMjc4LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMzgwOTIxMjU4LDEzNDcwMzI3OCw3MzA5OT
+gxMTZdfQ==
 -->
