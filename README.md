@@ -5,6 +5,11 @@ This README contains an overview of the Effective Collective project
 
 This repo will soon host the 0.0.1 release of the Effective Collective paper under the folder **"Effective Collective Paper."** For now, you can read an overview of the paper below. 
 
+## Directory (Published Parts Only)
+
+- Abstract
+- Individuality (verification)
+
 
 # Abstract
 
@@ -85,8 +90,8 @@ Effective is a **collaborative economy** that works by giving people **three dai
 	- **Leaders**' supported social projects
 	- **Individuals'** supported elective projects and social leaders
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODQ2NTIxOTAsLTkzNDU2NjIyNCw1Mz
-g2ODkyMSwtODcyMjczNjgsMjA1NDA0OTQzOCwxODc1NTU3OTMy
-LC01NDEyOTc0OTIsNTc2MDA1MzU2LC0xNjk3OTYzOTc0LDEyND
-gyMDExODUsLTIwOTY2NjY1NzQsLTI1MDM2NzIzM119
+eyJoaXN0b3J5IjpbNjM1MDU4OTg5LC05MzQ1NjYyMjQsNTM4Nj
+g5MjEsLTg3MjI3MzY4LDIwNTQwNDk0MzgsMTg3NTU1NzkzMiwt
+NTQxMjk3NDkyLDU3NjAwNTM1NiwtMTY5Nzk2Mzk3NCwxMjQ4Mj
+AxMTg1LC0yMDk2NjY2NTc0LC0yNTAzNjcyMzNdfQ==
 -->
