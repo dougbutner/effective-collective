@@ -7,8 +7,8 @@ This repo will soon host the 0.0.1 release of the Effective Collective paper und
 
 ## Directory (Published Parts Only)
 
-- Abstract
-- Individuality (verification)
+- [Abstract](https://github.com/dougbutner/effective-collective/blob/master/Effective%20Collective%20Paper/Abstract.md)
+- [Individuality (verification)]
 
 
 # Abstract
@@ -90,8 +90,9 @@ Effective is a **collaborative economy** that works by giving people **three dai
 	- **Leaders**' supported social projects
 	- **Individuals'** supported elective projects and social leaders
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM1MDU4OTg5LC05MzQ1NjYyMjQsNTM4Nj
-g5MjEsLTg3MjI3MzY4LDIwNTQwNDk0MzgsMTg3NTU1NzkzMiwt
-NTQxMjk3NDkyLDU3NjAwNTM1NiwtMTY5Nzk2Mzk3NCwxMjQ4Mj
-AxMTg1LC0yMDk2NjY2NTc0LC0yNTAzNjcyMzNdfQ==
+eyJoaXN0b3J5IjpbLTk3MzE0NjAzMSw2MzUwNTg5ODksLTkzND
+U2NjIyNCw1Mzg2ODkyMSwtODcyMjczNjgsMjA1NDA0OTQzOCwx
+ODc1NTU3OTMyLC01NDEyOTc0OTIsNTc2MDA1MzU2LC0xNjk3OT
+YzOTc0LDEyNDgyMDExODUsLTIwOTY2NjY1NzQsLTI1MDM2NzIz
+M119
 -->
