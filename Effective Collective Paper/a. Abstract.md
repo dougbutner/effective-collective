@@ -4,7 +4,7 @@ Effective provides **universal daily income** to every collaborator in the syste
 
 **Individuals become collaborators** by registering for a free digital wallet which automatically receives three equal deposits of Effective daily into three accounts.
 
-144 - Sovereign
+144 - Community + Sovereign 
 144 - Elective
 144 - Primary
 = 432 per individual per day 
@@ -13,5 +13,5 @@ The first deposit goes to a **Sovereign Account**, and is redirected towards lea
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNjM5ODYxMiwtMTAzNzkxMDcwMV19
+eyJoaXN0b3J5IjpbODM3NTM5NTIyLC0xMDM3OTEwNzAxXX0=
 -->
