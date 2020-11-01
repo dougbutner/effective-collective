@@ -1,6 +1,6 @@
 # Abstract
 
-Effective provides **universal daily income** to every collaborator in the system, and facilitates collaboration in the **funding of social and elective projects through collective choice**. 
+Effective Collective facilitates collaboration in the **funding of social and elective projects through collective choice**. 
 
 **Individuals become collaborators** by registering for a free digital wallet which automatically receives three equal deposits of Effective daily into three accounts.
 
@@ -13,5 +13,6 @@ The first deposit goes to a **Sovereign Account**, and is redirected towards lea
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM3NTM5NTIyLC0xMDM3OTEwNzAxXX0=
+eyJoaXN0b3J5IjpbLTE3NzIxMTc0NDUsODM3NTM5NTIyLC0xMD
+M3OTEwNzAxXX0=
 -->
