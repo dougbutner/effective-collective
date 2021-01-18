@@ -60,7 +60,7 @@ In this paper, we describe a system that allows people to **focus collectively**
 # Overview
 
 ## What is Effective
-Effective is a **collaborative economy** that works by giving people **three daily currency deposits** to (1) spend or save, (2) put towards social services and (3) support elective projects. The **sum** of every person's contribution is **given to projects** in a public registry **to complete the project's stated objectives**. 
+Effective is a **collaborative economy** that works by giving people **daily currency** to (1) spend or save, (2) put towards social services and (3) support elective projects. The **sum** of every person's contribution is **given to projects** in a public registry **to complete the project's stated objectives**. 
 
 ## Key Points of Effective
 - **Free digital currency** (∑) distributed daily
@@ -90,9 +90,10 @@ Effective is a **collaborative economy** that works by giving people **three dai
 	- **Leaders**' supported social projects
 	- **Individuals'** supported elective projects and social leaders
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyODEyNTY3MSwxNzcxMjQ1ODE5LC04MD
-YxMjczMTUsNzU2OTU4MTYxLDYzNTA1ODk4OSwtOTM0NTY2MjI0
-LDUzODY4OTIxLC04NzIyNzM2OCwyMDU0MDQ5NDM4LDE4NzU1NT
-c5MzIsLTU0MTI5NzQ5Miw1NzYwMDUzNTYsLTE2OTc5NjM5NzQs
-MTI0ODIwMTE4NSwtMjA5NjY2NjU3NCwtMjUwMzY3MjMzXX0=
+eyJoaXN0b3J5IjpbMTYyOTg0Nzg3MCwxOTI4MTI1NjcxLDE3Nz
+EyNDU4MTksLTgwNjEyNzMxNSw3NTY5NTgxNjEsNjM1MDU4OTg5
+LC05MzQ1NjYyMjQsNTM4Njg5MjEsLTg3MjI3MzY4LDIwNTQwND
+k0MzgsMTg3NTU1NzkzMiwtNTQxMjk3NDkyLDU3NjAwNTM1Niwt
+MTY5Nzk2Mzk3NCwxMjQ4MjAxMTg1LC0yMDk2NjY2NTc0LC0yNT
+AzNjcyMzNdfQ==
 -->
