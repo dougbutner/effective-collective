@@ -65,9 +65,9 @@ Effective is a **collaborative economy** that works by giving people **daily cur
 ## Key Points of Effective
 - **Free digital currency** (∑) distributed daily
 	- Daily, each person gets 432∑ split three ways: 
-		- For **themselves** (144∑)
-		- For **Social projects** where they live (144∑)
-		- For **Elective projects** they choose (144∑) 
+		- For **themselves** (144∑ sent to Telos wallet)
+		- For **Social projects** where they live (144∑ to each community, city, county, state, nation, and planet leadership's social list)
+		- For **Elective projects** they choose (144∑ sent to pre-defined list of projects) 
 - Goal is to harmonize **Individual**, **Collective** and **Gaia**
 - **Transparent Projects** & Democratic **Social Leadership** 
 - People must be **verified** and only hold one account
@@ -80,7 +80,7 @@ Effective is a **collaborative economy** that works by giving people **daily cur
 - **Social projects** provide free public services
 	- Citizens choose public leaders anonymously based on lists of social projects they support
 	- **Funding** directed by social leaders' **public lists**
-	- **Global**, **National**, **Region**, **District**, & **City** levels
+	- **Global**, **National**, **Region**, **District**, **City**, & **Community** levels
 - **Elective projects** Funding for any type of project
 	- May be **public**, or **private**
 	- May be **locational** (e.g. housing), or **non-locational** (e.g. app)
