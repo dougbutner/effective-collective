@@ -13,7 +13,7 @@ This repo will soon host the 0.0.1 release of the Effective Collective paper und
 
 # Abstract
 
-Effective provides **universal daily income** to every collaborator in the system, and facilitates collaboration in the **funding of social and elective projects through collective choice**. 
+Effective provides **daily income** to every collaborator in the system, and facilitates collaboration in the **funding of social and elective projects through collective choice**. 
 
 **Individuals become collaborators** by registering for a free digital wallet which automatically receives three equal deposits of Effective daily into three accounts.
 
